@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap');
+
+
+.fullblack{
+    background-color: rgb(0, 0, 0);
+}
+
+.black{
+    color: black;
+}
+
+.yellow{
+   color: #FFC107 ;
+
+   /* color: blue; */
+}
+
+.yellowb{
+    background-color: #FFB319;
+
+    /* background-color: blue; */
+   
+}
+.yellowbd{
+    background-color: #f7b739;
+
+    /* background-color: blue; */
+   
+}
+
+.gred{
+  
+    color:  linear-gradient( 109.6deg,  rgba(247,253,166,1) 11.2%, rgba(128,255,221,1) 57.8%, rgba(255,128,249,1) 85.9% );
+}
+.text-decration{
+     text-decoration: none;
+
+}
+
+.dullwhite{
+    color: #FEF9EF;
+}
+.lightblack{
+
+    background-color: #10101A;
+    
+}
+.progress{
+    border-radius: 15px !important;
+    padding: 5px !important; 
+}
+.progress-bar{
+    border-radius: 25px !important;
+
+}
+
+.fancyborder{  
+    /* max-width: 280px;
+    height: 280px; */
+    border-radius: 56% 44% 44% 56% / 42% 44% 56% 58% ;
+}
+.fancyborderabout{  
+   
+    border-radius:55% 45% 32% 68%/57% 45% 55% 43%;  ;
+}
+.font{
+    font-family: 'Ubuntu', sans-serif;
+  
+}
+
+.margintop90{
+   margin-top: 90px;
+
+}
+.margintop80{
+    margin-top: 80px;
+ 
+ }
+.margintop130{
+    margin-top: 130px;
+}
+.margintop150{
+    margin-top: 150px;
+}
+.margintop200{
+    margin-top: 200px;
+ 
+ }
+ 
+ .fs-13{
+    font-size: 13px;
+ }
+
+ .shadowwhite{
+     
+     border-radius: 20px;
+    box-shadow: 1px 0px 19px 0px rgba(255,255,255,0.75);
+-webkit-box-shadow: 1px 0px 19px 0px rgba(255,255,255,0.75);
+-moz-box-shadow: 1px 0px 19px 0px rgba(255,255,255,0.75);
+ }
+
+h1{
+    font-size: 65px;
+    font-weight: 700;
+}
+h2{
+    font-size: 55px;
+    font-weight: 700;
+}
+h3{
+    font-weight: 500;
+    font-size: 40px;
+}
+
+.h3newf{
+    font-size: 30px;
+    font-weight: 400;
+       
+}
+.h3newf2{
+    font-size: 25px;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+.exph3{
+    font-size: 32px;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.f10{
+   font-size: 12px;
+   font-weight: 600;
+}
+
+
+@media (max-width: 450px) { 
+    h1{
+        font-size: 55px;
+        font-weight: 700;
+    }
+
+    .qh1{
+        
+        font-size: 43px;
+        font-weight: 700;
+
+    }
+    .marginbottom30{
+     margin-bottom: 25px;
+     /* padding-bottom: 20px; */
+    }   
+    .margintop200{
+        margin-top: 140px;
+     
+     }
+     .margintop90{
+       margin-top: 30px;
+     }
+     
+.d_none{
+    display: none;
+}
+.minifont a{
+    font-size: 10px;
+
+}
+
+ }
+
+@media (min-width: 768px) { 
+
+
+ }
+
+@media (min-width: 992px) { 
+
+
+ }
+
+@media (min-width: 1200px) {
+
+
+  }
+
+@media (min-width: 1400px) { 
+
+
+ }
